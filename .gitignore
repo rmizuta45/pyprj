@@ -1,0 +1,10 @@
+.history/*
+beis_log/*
+pic/*
+pyprj/libs/__pycache__/*
+*.log
+*.pyc
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
